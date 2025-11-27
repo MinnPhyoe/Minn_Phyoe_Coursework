@@ -1,5 +1,5 @@
 {
-  "name": "Minn-express-backend",
+  "name": "minn-express-backend",
   "version": "1.0.0",
   "description": "Backend API",
   "main": "server.js",
