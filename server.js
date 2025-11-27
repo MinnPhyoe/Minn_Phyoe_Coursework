@@ -141,7 +141,7 @@ app.put('/lessons/:id', async (req, res) => {
 // Root route
 app.get('/', (req, res) => {
     res.json({
-        message: 'After School Classes API',
+        message: 'Minn Phyo Classes API',
         endpoints: {
             'GET /lessons': 'Get all lessons',
             'GET /search?q=term': 'Search lessons',
