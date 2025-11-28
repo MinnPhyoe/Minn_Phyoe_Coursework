@@ -2,7 +2,7 @@
   "name": "minn-express-backend",
   "version": "1.0.0",
   "description": "Backend API",
-  "main": "serve.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
