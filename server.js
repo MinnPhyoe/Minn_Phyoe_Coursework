@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://minphyoedb:Slothie03@minnphyoedb.hkdjatj.mongodb.net/';
-const DB_NAME = 'MPMClasses';
+const DB_NAME = 'MPMClasse';
 
 let db;
 
